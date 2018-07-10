@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "project-management-client-side-solution",
+    "id": "b0fc9fa2-62d9-4492-9d20-3b8804a599a3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/project-management.sppkg"
+  }
+}
